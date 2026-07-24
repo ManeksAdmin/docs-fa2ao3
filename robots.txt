@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-74bjeh.alefmail.org/sitemap.xml
